@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flowbuilder/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/flowbuilder/static/js/main.eba793c7.chunk.js",
+    "main.js.map": "/flowbuilder/static/js/main.eba793c7.chunk.js.map",
+    "runtime-main.js": "/flowbuilder/static/js/runtime-main.6f68a884.js",
+    "runtime-main.js.map": "/flowbuilder/static/js/runtime-main.6f68a884.js.map",
+    "static/js/2.e3d971f5.chunk.js": "/flowbuilder/static/js/2.e3d971f5.chunk.js",
+    "static/js/2.e3d971f5.chunk.js.map": "/flowbuilder/static/js/2.e3d971f5.chunk.js.map",
+    "static/js/3.96abda18.chunk.js": "/flowbuilder/static/js/3.96abda18.chunk.js",
+    "static/js/3.96abda18.chunk.js.map": "/flowbuilder/static/js/3.96abda18.chunk.js.map",
+    "index.html": "/flowbuilder/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/flowbuilder/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e3d971f5.chunk.js.LICENSE.txt": "/flowbuilder/static/js/2.e3d971f5.chunk.js.LICENSE.txt",
+    "static/media/Alarm.183d5e43.m4a": "/flowbuilder/static/media/Alarm.183d5e43.m4a"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f68a884.js",
+    "static/js/2.e3d971f5.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.eba793c7.chunk.js"
+  ]
+}

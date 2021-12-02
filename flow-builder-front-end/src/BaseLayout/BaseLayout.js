@@ -117,6 +117,7 @@ export default function BaseLayout(props) {
     setRenderStepper(true)
     makeArr(sequenceVal, complexityValue)
     setTimer(true)
+    setOpen(false)
   }
 
   const makeCombos = (complexityV) => {
@@ -233,6 +234,9 @@ export default function BaseLayout(props) {
               [classes.hide]: open,
             })}
           >
+            <IconButton onClick={handleDrawerClose}>
+            {theme.direction === 'ltr' ? <ChevronLeftIcon /> : <ChevronRightIcon />}
+          </IconButton>
             <MenuIcon color="inherit"/>
           </IconButton>
           <Typography variant="h6" noWrap>

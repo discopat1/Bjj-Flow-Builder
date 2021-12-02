@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Bjj-Flow-Builder/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/Bjj-Flow-Builder/static/js/main.4c96e4ad.chunk.js",
-    "main.js.map": "/Bjj-Flow-Builder/static/js/main.4c96e4ad.chunk.js.map",
+    "main.js": "/Bjj-Flow-Builder/static/js/main.0447c9f2.chunk.js",
+    "main.js.map": "/Bjj-Flow-Builder/static/js/main.0447c9f2.chunk.js.map",
     "runtime-main.js": "/Bjj-Flow-Builder/static/js/runtime-main.38281c80.js",
     "runtime-main.js.map": "/Bjj-Flow-Builder/static/js/runtime-main.38281c80.js.map",
-    "static/js/2.656aa8bf.chunk.js": "/Bjj-Flow-Builder/static/js/2.656aa8bf.chunk.js",
-    "static/js/2.656aa8bf.chunk.js.map": "/Bjj-Flow-Builder/static/js/2.656aa8bf.chunk.js.map",
+    "static/js/2.512e191d.chunk.js": "/Bjj-Flow-Builder/static/js/2.512e191d.chunk.js",
+    "static/js/2.512e191d.chunk.js.map": "/Bjj-Flow-Builder/static/js/2.512e191d.chunk.js.map",
     "static/js/3.96abda18.chunk.js": "/Bjj-Flow-Builder/static/js/3.96abda18.chunk.js",
     "static/js/3.96abda18.chunk.js.map": "/Bjj-Flow-Builder/static/js/3.96abda18.chunk.js.map",
     "index.html": "/Bjj-Flow-Builder/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/Bjj-Flow-Builder/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.656aa8bf.chunk.js.LICENSE.txt": "/Bjj-Flow-Builder/static/js/2.656aa8bf.chunk.js.LICENSE.txt",
+    "static/js/2.512e191d.chunk.js.LICENSE.txt": "/Bjj-Flow-Builder/static/js/2.512e191d.chunk.js.LICENSE.txt",
     "static/media/Alarm.183d5e43.m4a": "/Bjj-Flow-Builder/static/media/Alarm.183d5e43.m4a"
   },
   "entrypoints": [
     "static/js/runtime-main.38281c80.js",
-    "static/js/2.656aa8bf.chunk.js",
+    "static/js/2.512e191d.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.4c96e4ad.chunk.js"
+    "static/js/main.0447c9f2.chunk.js"
   ]
 }

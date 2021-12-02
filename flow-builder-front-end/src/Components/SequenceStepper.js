@@ -5,7 +5,7 @@ import Step from '@mui/material/Step';
 import StepLabel from '@mui/material/StepLabel';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
-// import dataSet from '../BaseLayout/Data'
+import useStyles from './Sequence.style';
 
 export default function SequenceStepper(props) {
   const {
@@ -19,8 +19,10 @@ export default function SequenceStepper(props) {
       declareSequence
   } = props
 
+  const classes = useStyles();
+
   React.useEffect(()=>{
-    declareSequence()
+    if(activeStep<combos.length){declareSequence()}
   },[activeStep])
   
   const steps = combos;
@@ -43,9 +45,9 @@ export default function SequenceStepper(props) {
 
   return (
     <Box sx={{ width: '100%' }}>
-      <Stepper activeStep={activeStep}>
+      <Stepper activeStep={activeStep} className={classes.root}>
         {steps.map((label, index) => {
-          const stepProps = {};
+          const stepProps = {width: '100%'};
           const labelProps = {};
         
           return (

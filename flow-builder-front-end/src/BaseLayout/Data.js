@@ -1,28 +1,28 @@
 const dataSet = {
     positions: [
-        [
-            'Side control 1',
-            'Side control 2',
-            'Side control 3'
-        ],
+        'Side control 1',
+        'Side control 2',
+        'Side control 3',
         'Crucifix',
         'Knee on belly',
-        [
-            'Mount 1',
-            'Mount 2',
-            'S-Mount'
-        ],
+        'Mount 1',
+        'Mount 2',
+        'S-Mount',
         'Rear mount',
         'Turtle',
-        [
-            'X-guard',
-            'Single leg x',
-            'Closed guard',
-            'Butterfly guard',
-            'De la riva',
-            'Half-guard',
-            'Arm Saddle'
-        ]
+        'X-guard',
+        'Single leg x',
+        'Closed guard',
+        'Butterfly guard',
+        'De la riva',
+        'Half-guard',
+        'Arm Saddle',
+        '50/50',
+        'DOA',
+        '411',
+        'Butterfly Ashi',
+        'Backside 50/50',
+        'Reverse Ashi'
     ],
     positionalSituations: [
         'scramble',
